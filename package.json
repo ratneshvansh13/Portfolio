@@ -1,0 +1,26 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "DevOps Engineer Portfolio - Ratnesh Vansh Saxena",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ratneshvansh13/Portfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "devops"
+  ],
+  "author": "Ratnesh Vansh Saxena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ratneshvansh13/Portfolio/issues"
+  },
+  "homepage": "https://github.com/ratneshvansh13/Portfolio#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
